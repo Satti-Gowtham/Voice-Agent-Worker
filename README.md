@@ -17,8 +17,8 @@ Make sure you have the following installed:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Satti-Gowtham/Voice-Agent-Worker.git
+   cd voice-agent-worker
 
 2. **Configure Environment Variables:**
 
